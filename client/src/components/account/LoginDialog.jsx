@@ -62,14 +62,14 @@ const LoginDialog = () => {
     <Dialog open={true} PaperProps={{ sx: dialogStyle }} hideBackdrop={true}>
       <Component>
         <Container>
-          <Title>To use WhatsApp on your Computer</Title>
+          <Title>To start chatting.......</Title>
           <StyledList>
-            <ListItem>1. Open Whatsapp on your computer</ListItem>
+            <ListItem>1. Login using the beside given google authentication.</ListItem>
             <ListItem>
-              2. Tap Menu:or Settngs and select Linked Devices
+              2. Talk to your friends and enjoy!
             </ListItem>
             <ListItem>
-              3. Point your phone to this screen to capture the code
+              3. Happy chatting!
             </ListItem>
           </StyledList>
         </Container>

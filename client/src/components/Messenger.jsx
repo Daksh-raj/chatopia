@@ -7,12 +7,10 @@ import { AccountContext } from "../context/AccountProvider";
 import ChatDialog from "./chat/ChatDialog";
 const Header = styled(AppBar)`
   height: 15vh;
-  background-color: #00bfa5;
   box-shadow: none;
 `;
 const LoginHeader = styled(AppBar)`
   height: 32vh;
-  background-color: #00bfa5;
   box-shadow: none;
 `;
 const Component = styled(Box)`
