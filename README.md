@@ -22,6 +22,8 @@ proceed to the app by logging into this..certainly i am using the Google Api for
 
 <h2> this is html page and i can write the things easily.</h2>
 
-<img src=" "></img>
+<img src="./client/public
+/logo512.png
+"></img>
 
 
