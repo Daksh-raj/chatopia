@@ -1,7 +1,7 @@
 ###letschat..
 
 
-#Loggging Method(info begin exchanged)
+#Loggging Method(info being exchanged)
 proceed to the app by logging into this..certainly i am using the Google Api for the user info.... And i have only access to the info being send by the google upon successful login.
 
 ##Further steps..
@@ -20,7 +20,7 @@ proceed to the app by logging into this..certainly i am using the Google Api for
 5.Socket.io(js library for the real time chatting )
 
 
-`[Sorry! Error while loading image](letschat/client/public/logo512.png)`
+
 
 
 
