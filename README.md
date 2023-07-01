@@ -22,7 +22,6 @@ proceed to the app by logging into this..certainly i am using the Google Api for
 
 <h2> this is html page and i can write the things easily.</h2>
 
-<img src="https://github.com/Daksh-raj/letschat/blob/main/client/public/logo192.png?raw=true
-" alt="Error image loading">
+<a href="https://github.com/Daksh-raj/letschat/blob/main/client/public/logo192.png?raw=true">type to visit the image</a>
 
 
