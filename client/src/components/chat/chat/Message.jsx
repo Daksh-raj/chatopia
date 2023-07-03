@@ -11,7 +11,6 @@ const Own = styled(Box)`
   padding: 5px;
   width: fit-content;
   display: flex;
-  border-radius: 10px;
   word-break: break-word;
 `;
 const Wrapper = styled(Box)`
@@ -21,7 +20,6 @@ const Wrapper = styled(Box)`
   padding: 5px;
   width: fit-content;
   display: flex;
-  border-radius: 10px;
   word-break: break-word;
 `;
 

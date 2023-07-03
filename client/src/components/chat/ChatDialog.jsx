@@ -23,13 +23,13 @@ const Component = styled(Box)`
 `;
 
 const LeftComponent = styled(Box)`
-  min-width: 25%;
-  width: 400px;
+  min-width: 20%;
+  width: 350px;
 `;
 
 const RightComponent = styled(Box)`
   min-width: 30%;
-  width: 70%;
+  width: 100%;
   height: 100vh;
   border-left: 1px solid rgba(0, 0, 0, 0.14);
 `;

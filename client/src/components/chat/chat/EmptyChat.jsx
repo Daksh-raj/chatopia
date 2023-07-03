@@ -36,12 +36,12 @@ const EmptyChat = () => {
     <Component>
       <Container>
         <Image src={emptyChatImage} alt="Error image loading"></Image>
-        <Title>Whatsapp Web</Title>
+        <Title>welcome to chatopia.</Title>
         <SubTitle>
-          Now send and recieve messages without keeping your phone online
+          Now send and recieve messages in both of the text and document form.
         </SubTitle>
         <SubTitle>
-          Use Whatsapp on up to 4 linked devices and 1 phone at the same time
+          see the users online.
         </SubTitle>
       </Container>
     </Component>
