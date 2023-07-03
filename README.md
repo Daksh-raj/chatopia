@@ -30,8 +30,3 @@
 <h2>User Profile view</h2>
 <img src="https://github.com/Daksh-raj/letschat/blob/main/images/Screenshot%20(33).png?raw=true">
 
-<h2>Conversation List</h2>
-
-<img src="https://github.com/Daksh-raj/letschat/blob/main/images/Screenshot%20(34).png?raw=true">
-<h2>Chatting prompt</h2>
-<img src="https://github.com/Daksh-raj/letschat/blob/main/images/Screenshot%20(35).png?raw=true">
